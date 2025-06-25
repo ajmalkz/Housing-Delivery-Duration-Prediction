@@ -1,6 +1,3 @@
-Here's a professional and clear **README.md** file for your *Housing Delivery Duration Prediction* project. It incorporates your detailed pipeline and includes clear instructions for setup and execution:
-
----
 
 # 🏠 Housing Delivery Duration Prediction
 
@@ -140,6 +137,3 @@ Stored in `outputs/evaluation.txt`:
 3. The Linear Regression model learns patterns in delivery behavior.
 4. The model is used to predict delivery duration for new orders.
 
----
-
-Let me know if you'd like a version with badges, links to your GitHub profiles, or deployment instructions (e.g., hosting the Streamlit app on Streamlit Cloud or Heroku).
