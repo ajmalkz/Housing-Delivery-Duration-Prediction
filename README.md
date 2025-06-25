@@ -13,6 +13,10 @@ Estimate delivery durations using historical delivery data, helping businesses:
 
 ---
 
+# Output
+![Screenshot (1)](https://github.com/user-attachments/assets/264e0766-baf7-4543-9cd0-970b08ca120b)
+
+
 ## 📁 Project Structure
 
 ```bash
